@@ -34,4 +34,4 @@ using the configure_exporter method exposed. Here's an example with WordPress:
 
 # Authoring an Exporter
 
-See [the exporter](./pelican_export/exporter.py) for the interface, and [the initialization code](./pelican_export/__init__.py) for how to integrate it as an option.
+See [the exporter](https://github.com/toumorokoshi/pelican-export/blob/master/pelican_export/exporter.py) for the interface, and [the initialization code](https://github.com/toumorokoshi/pelican-export/blob/master/pelican_export/__init__.py) for how to integrate it as an option.
